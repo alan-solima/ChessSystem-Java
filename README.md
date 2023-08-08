@@ -80,4 +80,4 @@ For inquiries or support, reach out to me at **alancontato03@gmail.com**
 Visit me on <a href="https://github.com/alansoareslima">GitHub</a>.
 
 ## 📁 Access
-Click [here](https://github.com/gui-lirasilva/Edige-POO/tree/master/src) to access the project.
+Click [here](https://github.com/alansoareslima/project-chess-system-java/) to access the project.
