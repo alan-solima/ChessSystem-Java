@@ -45,6 +45,9 @@ To embark on your chess adventure within the console simulation, follow these st
   <img style="max-width: 100%; max-height: 100%;" src="https://github.com/alansoareslima/project-chess-system-java/assets/87402658/be1c4353-184c-4527-9b4a-97966e474d97" alt="Imagem Centralizada">
 </div>
 
+- **_Rows_**: represented by ``"1, 2, 3, 4, 5, 6, 7, 8"``.
+- **_Columns_**: represented by ``"a, b, c, d, e, f, g, h"``.
+
 **Black pieces are represented by the color Yellow, as the background of the console is already black.
 
 - **_King_**: represented by the letter `"K"`.
