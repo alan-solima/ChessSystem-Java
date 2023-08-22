@@ -19,7 +19,7 @@ Welcome to the Java Chess System project! This repository contains a chess game 
 
 To embark on your chess adventure within the console simulation, follow these steps:
 
-- Clone this repository to your local machine using the command `git clone https://github.com/alansoareslima/ChessSystem-Java.git`
+- Clone this repository to your local machine using the command `git clone https://github.com/alansoareslima/ChessSystem-Java.git ChessSystemJava`
 
 - Confirm that you have the Java Development Kit (JDK) installed on your computer.
 
